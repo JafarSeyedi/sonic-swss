@@ -32,6 +32,9 @@ stamp-h1
 **/Makefile
 autom4te.cache
 
+coppmgrd
+tunnelmgrd
+
 # Dependency Folder #
 #####################
 deps/
